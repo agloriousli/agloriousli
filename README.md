@@ -7,10 +7,6 @@ Right now, I’m a Software Engineering student at the University of Waterloo (S
 - 📊 doing time-series ML research on storms and climate data
 - 🛠️ crafting tools and visualizations that people actually use
 
-I thrive in environments where I can learn fast, move fast, and work with people who care about what they’re building.
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages  
