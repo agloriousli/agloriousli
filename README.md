@@ -10,9 +10,6 @@ Right now, I’m a Software Engineering student at the University of Waterloo (S
 I thrive in environments where I can learn fast, move fast, and work with people who care about what they’re building.
 
 ---
-[![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=agloriousli)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 🧰 Tech Stack
 
