@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gloria Li
+# 👋 Hi, I'm Gloria
 
 A builder at heart - I love hacking together full-stack apps, wrangling ML models, and turning weird ideas into working products. Whether it’s a research tool, a personal dashboard, or a scrappy AI study bot, I enjoy the messy and rewarding process of figuring things out.
 
