@@ -2,8 +2,8 @@
 
 I’ve spent the past few years:
 - 👾 shipping features at local early-stage startups
-- 📊 doing time-series ML research on storms and climate data
-- 🛠️ crafting tools and visualizations that people actually use
+- 📊 doing time-series ML research on environmental/health topics
+- 🛠️ crafting useful tools and visualizations 
 
 ## 🧰 Tech Stack
 
