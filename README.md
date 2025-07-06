@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gloria
 
-A builder at heart - I love hacking together full-stack apps, wrangling ML models, and turning weird ideas into working products. Whether it’s a research tool, a personal dashboard, or a scrappy AI study bot, I enjoy the messy and rewarding process of figuring things out.
+Builder at heart - I love hacking together full-stack apps, wrangling ML models, and turning weird ideas into working products. Whether it’s a research tool, a personal dashboard, or a scrappy AI study bot, I enjoy the messy and rewarding process of figuring things out.
 
 I’ve spent the past few years:
 - 👾 shipping features at early-stage startups
