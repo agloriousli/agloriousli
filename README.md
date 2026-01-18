@@ -46,13 +46,3 @@ I tend to spend my time:
 ![image](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 A Few Things I’ve Done
-- 🧠 Researched storm prediction models using Transformers and LSTMs — yes, real lightning  
-- 🧩 Built frontend and backend infra at StudyDojo (YC F24), helping 100K+ students learn better  
-- 🧪 Won "Most Educational Hack" with a tool that turns content into flashcards with LLMs  
-- 🧰 Designed and shipped internal tools at an early-stage startup (decaf), from scratch
-
----
