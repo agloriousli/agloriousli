@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Gloria
+# 👋 Hey there, I'm Gloria Li
 
 I tend to spend my time:
 - 📊 doing time-series ML research on environmental/health topics
